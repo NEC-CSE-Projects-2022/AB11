@@ -179,23 +179,3 @@ Input Data → Preprocessing → Feature Engineering → Model Training → Pred
 
 ---
 
-## ⭐ Key Highlight
-
-👉 LightGBM achieved **~99% accuracy** in cotton yield prediction using climate-smart features.
-
----
-
-## 📌 How to Run
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/cotton-yield-prediction.git
-
-# Navigate to project
-cd cotton-yield-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python main.py
