@@ -25,11 +25,6 @@ The dataset used in this project is large, so it is hosted on **Google Drive**.
 • Validation Dataset (Optional)  
 • Test Dataset (20%)  
 
-### ⚙️ Dataset Processing
-• Synthetic data generated using bootstrapping  
-• Outliers removed for better accuracy  
-• Categorical features encoded  
-• Dataset balanced for unbiased training  
 
 ### 📌 Note
 This dataset combines **real-world inspired agricultural data** with **synthetic augmentation** to improve model performance and stability.
