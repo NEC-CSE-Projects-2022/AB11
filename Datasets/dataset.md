@@ -2,7 +2,7 @@
 
 The dataset used in this project is large, so it is hosted on **Google Drive**.
 
-🔗 👉 **[Download Dataset](YOUR_DATASET_LINK_HERE)**
+🔗 👉 **https://drive.google.com/file/d/1oGjkzj1TE0nCcwVDCqIyJMrAyMyCjVXL/view**
 
 ### 📦 Dataset Info
 • Cotton Yield Prediction Dataset (Synthetic + Historical Inspired)  
