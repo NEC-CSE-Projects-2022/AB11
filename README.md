@@ -4,17 +4,20 @@
 
 ## 👥 Team Info
 
-### 22471A05XX — Satuluri Mohammad Sakhib  
-🔗 LinkedIn  
+### 22471A0539 — Satuluri Mohammad Sakhib  
+🔗 [LinkedIn](https://www.linkedin.com/in/sakhib-mohammad-952b82400/)  
 **Work Done:**  
 - Implemented LightGBM and Random Forest models  
 - Developed preprocessing pipeline (encoding, outlier removal)  
 - Performed model training, evaluation, and analysis  
-- Integrated full ML workflow and documentation  
+- Integrated full ML workflow and documentation
+-  Frontend/backend integration  
+- Deployment setup  
+- Documentation   
 
 ---
 
-### 22471A05XX — Name  
+### 22471A0525 — Gunji Venkata Ganesh 
 🔗 LinkedIn  
 **Work Done:**  
 - Dataset collection and preparation  
@@ -23,7 +26,7 @@
 
 ---
 
-### 22471A05XX — Name  
+### 22471A0516 — Desireddy Charan Siva Nagi Reddy  
 🔗 LinkedIn  
 **Work Done:**  
 - Exploratory Data Analysis (EDA)  
@@ -32,14 +35,6 @@
 
 ---
 
-### 22471A05XX — Name  
-🔗 LinkedIn  
-**Work Done:**  
-- Frontend/backend integration  
-- Deployment setup  
-- Documentation  
-
----
 
 ## 📄 Abstract
 
